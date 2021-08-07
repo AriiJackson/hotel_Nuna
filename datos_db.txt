@@ -1,0 +1,6 @@
+DATOS BASE DE DATOS
+
+HOST: localhost
+ROOT: tpoFinal
+PASS: tpoFinal
+DB NAME: hotel_nuna
